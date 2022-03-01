@@ -38,8 +38,15 @@ Python 3.9, PyQt5
 
   or just run ```Client_Sender.exe```(Windows)
 
+Default port: 11235
+
 You can also use Ramune-D locally by NAT-DDNS(127.0.0.1:11235).
 
 ---
 
-### License
+### ToDo
+
+- 颜色支持
+- 高级弹幕
+- 顶端/底端弹幕
+- ...
